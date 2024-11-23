@@ -1,10 +1,10 @@
 use ufmt::{uDebug, uDisplay, uWrite};
 
 /// A wrapper for [`f64`] implementing [`ufmt::uDisplay`] and [`ufmt::uDebug`].
-/// 
+///
 /// ```rust
 /// use ufloat::Uf64;
-/// 
+///
 /// // Format to 5 decimal places.
 /// let f64 = Uf64(123.45678, 5);
 /// ```

@@ -1,10 +1,10 @@
 use ufmt::{uDebug, uDisplay, uWrite};
 
 /// A wrapper for [`f32`] implementing [`ufmt::uDisplay`] and [`ufmt::uDebug`].
-/// 
+///
 /// ```rust
 /// use ufloat::Uf32;
-/// 
+///
 /// // Format to 3 decimal places.
 /// let f32 = Uf32(123.456, 3);
 /// ```
