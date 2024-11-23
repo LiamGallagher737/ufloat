@@ -4,13 +4,13 @@
 //!
 //! ```rust
 //! use ufloat::{Uf32, Uf64};
-//! 
+//!
 //! // Format to 3 decimal places.
 //! let a = Uf32(123.456, 3);
 //! // Format to 5 decimal places.
 //! let b = Uf64(123.45678, 5);
 //! ```
-//! 
+//!
 //! The [`libm`](https://crates.io/crates/libm) crate is used for math operations.
 
 #![cfg_attr(not(test), no_std)]
