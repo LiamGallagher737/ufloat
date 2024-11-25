@@ -5,7 +5,7 @@
 A `no_std` compatible library for formatting floating point numbers with [`ufmt`](https://crates.io/crates/ufmt)
 
 [![crates.io](https://img.shields.io/crates/v/ufloat?style=for-the-badge)](https://crates.io/crates/ufloat)
-[![docs.rs](https://img.shields.io/docsrs/ufloat?style=for-the-badge)](https://docs.rs/ufloat/latest/ufloat/struct.Angle.html)
+[![docs.rs](https://img.shields.io/docsrs/ufloat?style=for-the-badge)](https://docs.rs/ufloat/latest/ufloat)
 
 </div>
 
